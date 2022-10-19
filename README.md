@@ -28,5 +28,6 @@ Change the for format in this code: script.js
   
   Change the ```zh-hk``` and ```Asia/Hong_Kong``` to your one in the ```timezone_and_format_list``` 
 # Language of the HUD
+The default languages of this HUD are Chinese Traditional(Hong Kong) and English, you can easily change the language in the ```ui.html``` 
 
 
