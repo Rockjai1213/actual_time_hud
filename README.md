@@ -1,10 +1,23 @@
+# Note
+If you would like to add this HUD in your project, feel free to do so, remember to add the credit to me.
+
 # rockjai_time_hud
 * FiveM HUD - show the actual time in life
 * No any dependencies files or framework
 * Can be use for any framework in FiveM
+* My first project for FiveM
+
+# Preview
+![image](https://user-images.githubusercontent.com/104734341/196799793-13ccb715-70e7-4c60-ad14-cf64a2308033.png)
+
+![image](https://user-images.githubusercontent.com/104734341/196800318-44481e21-b32e-47ce-ab0f-0ce8569f23f0.png)
+
+
+
 # Features
 * Show the actual time in life
 * Changeable time zone and format of the time(Instruction below)
+* The HUD will be hide when the pause menu is showing
 # Installction
 1. Extract the file
 2. Drop it into you resouces file
@@ -48,5 +61,4 @@ The default language of this HUD are Chinese Traditional(Hong Kong), you can eas
 # Thanks to 
 [Scorpion01](https://forum.cfx.re/u/Scorpion01) for helping me to improve the HUD, which makes the HUD a lot better❤️
 
-# Notice:
-If you would like to add this HUD in your project, feel free to do so, remember to add the credit to me.
+
