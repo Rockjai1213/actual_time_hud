@@ -16,7 +16,7 @@ If you would like to add this HUD in your project, feel free to do so, remember 
 
 # Features
 * Show the actual time in life
-* Changeable time zone and format of the time(Instruction below)
+* Changeable time zone and format of the time ([Setting](https://github.com/Rockjai1213/rockjai_time_hud/edit/main/README.md#settings), [Language of the HUD](https://github.com/Rockjai1213/rockjai_time_hud/edit/main/README.md#language-of-the-hud))
 * The HUD will be hide when the pause menu is showing
 # Installction
 1. Extract the file
