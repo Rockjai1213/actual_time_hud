@@ -20,8 +20,9 @@ If you would like to add this HUD in your project, feel free to do so, remember 
 * The HUD will be hide when the pause menu is showing
 # Installction
 1. Extract the file
-2. Drop it into you resouces file
-3. Add ``ensure rockjai_time_hud`` in your ``server.cfg`` or ``resouces.cfg`` or whatever you call it
+2. Rename it to ```rockjai_time_hud```
+3. Drop it into you resouces file
+4. Add ``ensure rockjai_time_hud`` in your ``server.cfg`` or ``resouces.cfg`` or whatever you call it
 # Dependencies
 * **No dependencies are required for this hud** 
 # Settings
