@@ -47,3 +47,6 @@ The default language of this HUD are Chinese Traditional(Hong Kong), you can eas
 ```
 # Thanks to 
 [Scorpion01](https://forum.cfx.re/u/Scorpion01) for helping me to improve the HUD, which makes the HUD a lot better❤️
+
+# Notice:
+If you would like to add this HUD in your project, feel free to do so, remember to add the credit to me.
