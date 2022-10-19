@@ -28,6 +28,22 @@ Change the for format in this code: script.js
   
   Change the ```zh-hk``` and ```Asia/Hong_Kong``` to your one in the ```timezone_and_format_list``` 
 # Language of the HUD
-The default languages of this HUD are Chinese Traditional(Hong Kong) and English, you can easily change the language in the ```ui.html``` 
+The default language of this HUD are Chinese Traditional(Hong Kong), you can easily change the language in the ```ui.html``` 
 
+```    
+<body>
+  <p id="time">現正時間為: <span id="datetime"></span></p>
+  <!--"現正時間為:" = "now time is", translate this to your language-->                                                   
+</body>
+```
+```現正時間為``` in the second line means ```Current time is``` in Cantonese, you can easily change this to you language.
 
+## Example:
+```    
+<body>
+  <p id="time">Current time is: <span id="datetime"></span></p>
+  <!--"現正時間為:" = "now time is", translate this to your language-->                                                   
+</body>
+```
+# Thanks to 
+[Scorpion01](https://forum.cfx.re/u/Scorpion01) for helping me to improve the HUD, which makes the HUD a lot better❤️
