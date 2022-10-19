@@ -13,4 +13,20 @@
 * **No dependencies are required for this hud** 
 # Settings
 You can change the time zone, language and format of the time in this hud easily.
-* You can look up the time zone and 
+* You can look up the ```timezone_and_format_list``` to check what format and time zone is avaliable 
+***
+Change the for format in this code: script.js
+
+* ``` function setDatetime(){
+  function setDatetime(){
+	if(isOpen == true){
+		document.getElementById("datetime").innerHTML = new Date().toLocaleString("zh-hk", { timeZone: "Asia/Hong_Kong" });
+		setTimeout(setDatetime, 500);
+	}
+  }
+  ```
+  
+  Change the ```zh-hk``` and ```Asia/Hong_Kong``` to your one in the ```timezone_and_format_list``` 
+# Language of the HUD
+
+
