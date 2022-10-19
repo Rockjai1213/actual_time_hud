@@ -12,4 +12,5 @@
 # Dependencies
 * **No dependencies are required for this hud** 
 # Settings
-You can change the time zone, language and format of the time in this hud easily:
+You can change the time zone, language and format of the time in this hud easily.
+* You can look up the time zone and 
